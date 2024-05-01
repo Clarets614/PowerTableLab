@@ -1,0 +1,15 @@
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.AssemblyInfoInputs.cache
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.AssemblyInfo.cs
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.csproj.CoreCompileInputs.cache
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.sourcelink.json
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\bin\Debug\net8.0\PowersTableLab.exe
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\bin\Debug\net8.0\PowersTableLab.deps.json
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\bin\Debug\net8.0\PowersTableLab.runtimeconfig.json
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\bin\Debug\net8.0\PowersTableLab.dll
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\bin\Debug\net8.0\PowersTableLab.pdb
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.dll
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\refint\PowersTableLab.dll
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.pdb
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\PowersTableLab.genruntimeconfig.cache
+C:\Users\cstock\source\repos\PowersTableLab\PowersTableLab\obj\Debug\net8.0\ref\PowersTableLab.dll

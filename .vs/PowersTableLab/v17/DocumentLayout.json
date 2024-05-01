@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cstock\\source\\repos\\PowersTableLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A82DB5F-754E-4A9C-9A00-04FF8103A0F2}|PowersTableLab\\PowersTableLab.csproj|c:\\users\\cstock\\source\\repos\\powerstablelab\\powerstablelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A82DB5F-754E-4A9C-9A00-04FF8103A0F2}|PowersTableLab\\PowersTableLab.csproj|solutionrelative:powerstablelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\PowersTableLab\\PowersTableLab\\Program.cs",
+              "RelativeDocumentMoniker": "PowersTableLab\\Program.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\PowersTableLab\\PowersTableLab\\Program.cs",
+              "RelativeToolTip": "PowersTableLab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:52:26.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
